@@ -12,7 +12,7 @@ CHAT_FILE = "chat_history.json"
 
 # ---------------- Page config ----------------
 st.set_page_config(
-    page_title="Videantis-R&D Companion",
+    page_title="R&D Companion",
     layout="wide"
 )
 
@@ -122,7 +122,7 @@ st.markdown(
         font-size: 30px;
         font-weight: bold;
     ">
-        🤖 Videantis-R&D Companion <br>
+        🤖 R&D Companion <br>
         <span style="font-size:16px;">
             Local AI Assistant powered by <b>{display_name}</b> (Ollama)
         </span><br>
